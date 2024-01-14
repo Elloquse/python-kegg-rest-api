@@ -1,2 +1,4 @@
-# python-kegg-rest-api
-Training project written in Python about working with KEGG REST API
+Python: KEGG REST API
+---
+[KEGG](https://www.kegg.jp) - онлайн репозиторий, предоставляющий доступ к различным базам данных биологических и медицинских данных (например, ферментам, генам и т.п.).<br>
+Получение данных из базы данных KEGG с использованием API и дальнейшая визуализация результатов с применением библиотеки matplotlib.
